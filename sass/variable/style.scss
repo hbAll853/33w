@@ -1,0 +1,19 @@
+/* theme name : theme-33w
+theme url : https://referenced.ca
+author : 
+@import "base/titre";
+
+/* Importation des feuilles de style du theme */ 
+
+/* variables */ 
+@import "variables/couleurs";
+
+ /* Base */ 
+ @import "base/titre";
+
+ /* Layout */
+ @import "layout/entete";
+
+ /* cmposants */ 
+ @import "composants/bouton";
+@import "composants/menu";
